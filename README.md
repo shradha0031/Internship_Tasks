@@ -40,6 +40,52 @@ This is an Android application built using **Jetpack Compose**, **CameraX**, and
 If you have any suggestions or issues, feel free to reach out via [GitHub Issues](https://github.com/shradha0031/Internship_Tasks/issues).
 
 ---
+🕒 Stopwatch App
+A beautiful and functional Stopwatch App built using Jetpack Compose in Android. This app allows users to:
+
+⏱ Start and pause the stopwatch
+
+🔄 Reset the timer
+
+⌛ View time in minutes, seconds, and milliseconds
+
+🎨 Experience an attractive and modern UI
+
+📱 Features
+🟢 Start/Pause toggle with dynamic icon
+
+🔴 Reset button to clear time
+
+⏰ Time precision up to centiseconds (1/100th second)
+
+🌈 Gradient background UI with responsive layout
+
+💡 Built using Jetpack Compose
+
+🧑‍💻 Tech Stack
+Kotlin
+
+Jetpack Compose
+
+Material3
+
+Coroutines for timer logic
+
+
+🚀 Getting Started
+Clone this repository or download the source.
+
+Open it in Android Studio.
+
+Build and run the app on an emulator or real device.
+
+🤝 Contribution
+Pull requests are welcome! If you'd like to improve UI or add lap features, feel free to fork and contribute.
+
+🧑 Author
+Shraddha Sharma
+GitHub: shradha0031
+
 
 
 
