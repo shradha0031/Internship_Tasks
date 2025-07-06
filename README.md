@@ -26,6 +26,7 @@ This is an Android application built using **Jetpack Compose**, **CameraX**, and
 
 ## 🧪 How to Run
 
+
 1. Clone this repository
 2. Open in Android Studio
 3. Connect your Android device or emulator
@@ -40,7 +41,9 @@ This is an Android application built using **Jetpack Compose**, **CameraX**, and
 If you have any suggestions or issues, feel free to reach out via [GitHub Issues](https://github.com/shradha0031/Internship_Tasks/issues).
 
 ---
+
 🕒 Stopwatch App
+
 A beautiful and functional Stopwatch App built using Jetpack Compose in Android. This app allows users to:
 
 ⏱ Start and pause the stopwatch
